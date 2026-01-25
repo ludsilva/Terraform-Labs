@@ -10,6 +10,7 @@ Os laboratórios estão organizados em pastas independentes, cada uma contendo s
 
 - [Lab 1 - EC2 com LocalStack](./lab1-ec2-localstack/)
 - [Lab 2 - VPC + EC2 + Security Groups com LocalStack](./lab2-vpc-ec2-localstack/)
+- [Lab 3 - VPC Multi-AZ com Load Balancer e Remote state (S3)](./lab3-rstate-localstack/)
 
 ## Licença
 
